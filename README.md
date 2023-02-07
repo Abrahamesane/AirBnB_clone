@@ -109,5 +109,5 @@ HBnB - version 9.6
 ### Acknowledgements :raised_hands:
 To all the peers that contribuited with their knowledge
 ### Authors :fountain_pen:
-* Luis Chaparro - @luischaparroc
-* Laura Peralta V - @LauraPeraltaV85
+* Ofeinmu abraham Nashville - @Abrahamesane
+* Ifeanyi Jonathan - @Cyberod
