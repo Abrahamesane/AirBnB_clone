@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Defines review class
+Module that Defines review class
 """
 from models.base_model import BaseModel
 
