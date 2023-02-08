@@ -22,7 +22,7 @@ class TestAmenity(unittest.TestCase):
         self.assertIsInstance(self.a, Amenity)
 
     def testHasAttributes(self):
-        """verify if attributes exist"""
+        """verify if attributes exists"""
         self.assertTrue(hasattr(self.a, 'name'))
         self.assertTrue(hasattr(self.a, 'id'))
         self.assertTrue(hasattr(self.a, 'created_at'))
