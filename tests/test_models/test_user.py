@@ -21,7 +21,7 @@ class UserCase(unittest.TestCase):
         self.assertIsInstance(self.u, User)
 
     def testHasAttributes(self):
-        """verify if attributes exist"""
+        """verify if attributes exists"""
         self.assertTrue(hasattr(self.u, 'email'))
         self.assertTrue(hasattr(self.u, 'password'))
         self.assertTrue(hasattr(self.u, 'first_name'))
