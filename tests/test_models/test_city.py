@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Unittest for user.py
+Unittest for city.py
 """
 import unittest
 from models.city import City
