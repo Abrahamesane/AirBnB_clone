@@ -8,7 +8,7 @@ import datetime
 
 
 class TestReview(unittest.TestCase):
-    """Tests instances and methods from Review class"""
+    """Test instances and methods from Review class"""
 
     r = Review()
 
