@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Defines amenities
+Define amenities
 """
 from models.base_model import BaseModel
 
