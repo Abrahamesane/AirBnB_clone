@@ -17,5 +17,5 @@
 * Preview: paste index.html link and run on: http://htmlpreview.github.io/?
 
 ### Authors
-Abraham Sane Nashville
-Ifeanyi Jonathan Udoka
+- Abraham Sane Nashville
+- Ifeanyi Jonathan Udoka
