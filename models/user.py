@@ -8,7 +8,7 @@ from models.base_model import BaseModel
 class User(BaseModel):
     """
     Defines attributes for user creation
-
+    
     Public Class Attributes:
     (string) email: initalized as empty string
     (string) password: initalized as empty string
